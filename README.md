@@ -123,10 +123,10 @@ _This package requires **Unity 2018.3 or later**._
 #### Install via UPM (with Package Manager UI)
 
 - Click `Window > Package Manager` to open Package Manager UI.
-- Click `+ > Add package from git URL...` and input the repository URL: `https://github.com/mob-sakai/ParticleEffectForUGUI.git`  
+- Click `+ > Add package from git URL...` and input the repository URL: `https://github.com/thanhdv143fork/ParticleEffectForUGUI.git`  
   ![](https://github.com/user-attachments/assets/f88f47ad-c606-44bd-9e86-ee3f72eac548)
 - To update the package, change suffix `#{version}` to the target version.
-  - e.g. `https://github.com/mob-sakai/ParticleEffectForUGUI.git#4.13.0`
+  - e.g. `https://github.com/thanhdv143fork/ParticleEffectForUGUI.git#4.13.0`
 
 #### Install via UPM (Manually)
 
@@ -134,14 +134,14 @@ _This package requires **Unity 2018.3 or later**._
   ```json
   {
     "dependencies": {
-      "com.coffee.ui-particle": "https://github.com/mob-sakai/ParticleEffectForUGUI.git",
+      "com.coffee.ui-particle": "https://github.com/thanhdv143fork/ParticleEffectForUGUI.git",
       ...
     }
   }
   ```
 
 - To update the package, change suffix `#{version}` to the target version.
-  - e.g. `"com.coffee.ui-particle": "https://github.com/mob-sakai/ParticleEffectForUGUI.git#4.13.0",`
+  - e.g. `"com.coffee.ui-particle": "https://github.com/thanhdv143fork/ParticleEffectForUGUI.git#4.13.0",`
 
 #### Install as Embedded Package
 
