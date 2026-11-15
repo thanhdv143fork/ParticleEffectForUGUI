@@ -24,3 +24,4 @@ Automatically updated by the [Sync Upstream](.github/workflows/sync-upstream.yml
 | 2026-11-12 09:52:35 | mob-sakai/ParticleEffectForUGUI | 4330710 | Already up to date |
 | 2026-11-13 09:35:22 | mob-sakai/ParticleEffectForUGUI | 4330710 | Already up to date |
 | 2026-11-14 09:00:05 | mob-sakai/ParticleEffectForUGUI | 4330710 | Already up to date |
+| 2026-11-15 09:30:30 | mob-sakai/ParticleEffectForUGUI | 4330710 | Already up to date |
